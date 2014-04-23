@@ -35,7 +35,7 @@ class See_More_Themes
 	// we only want the stylesheet if the Themes page is being loaded
 	public function see_more_themes_styles( $hook ) {
 		if ( 'themes.php' == $hook || 'theme-install.php' == $hook ) {
-			wp_enqueue_style( 'see-more-themes-css', trailingslashit( plugin_dir_url( __FILE__ ) ) . 'see-more-themes.css' );
+			wp_enqueue_style( 'see-more-themes-css', trailingslashit( plugin_dir_url( __FILE__ ) ) . 'assets/see-more-themes.css' );
 		}
 	}
 }

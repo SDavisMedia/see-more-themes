@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: See More Themes
- * Plugin URI: 
+ * Plugin URI: https://github.com/sdavis2702/see-more-themes
  * Description: When viewing installed themes or searching for new themes in your WordPress dashboard, See More Themes allows you to... see more themes... on the screen at once.
  * Version: 1.0.0
  * Author: Sean Davis

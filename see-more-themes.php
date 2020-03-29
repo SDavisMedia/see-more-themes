@@ -1,24 +1,24 @@
 <?php
 /**
  * Plugin Name: See More Themes
- * Plugin URI: https://github.com/sdavis2702/see-more-themes
+ * Plugin URI: https://github.com/sdavismedia/see-more-themes
  * Description: When viewing installed themes or searching for new themes in your WordPress dashboard, See More Themes allows you to... see more themes... on the screen at once.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Sean Davis
- * Author URI: http://seandavis.co
+ * Author URI: https://github.com/sdavismedia/
  * License: GPL2
  * Requires at least: 3.8
- * Tested up to: 4.1
- * 
+ * Tested up to: 5.4 RC5
+ *
  * This plugin is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License, version 2, as 
+ * it under the terms of the GNU General Public License, version 2, as
  * published by the Free Software Foundation.
- * 
+ *
  * This plugin is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
- * 
+ *
  * You should have received a copy of the GNU General Public License
  * along with this program; if not, see http://www.gnu.org/licenses/.
  */

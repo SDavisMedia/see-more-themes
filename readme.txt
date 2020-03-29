@@ -3,8 +3,8 @@ Contributors: sdavis2702
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=52HQDSEUA542S
 Tags: themes, preview, customize, install, sdavis2702
 Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 1.0.0
+Tested up to: 5.4 RC5
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ See more themes when viewing installed themes or adding new ones.
 
 When viewing installed themes or searching for new themes in your WordPress dashboard, See More Themes allows you to... see more themes... on the screen at once.
 
-Follow See More Themes' development on [Github](https://github.com/sdavis2702/see-more-themes)
+Follow See More Themes' development on [Github](https://github.com/sdavismedia/see-more-themes)
 
 == Installation ==
 
@@ -37,3 +37,6 @@ No. Once activated, it simply works.
 
 = 1.0.0 =
 * first stable version
+
+= 1.0.1 =
+* update theme grid modifications to match newer WordPress UI
